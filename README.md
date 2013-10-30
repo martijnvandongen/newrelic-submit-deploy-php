@@ -1,4 +1,4 @@
-newrelic-submit-deploy-php
+New Relic Submit Deploy 
 ==========================
 
 With this simple PHP application you can submit deployments, or other important events, to your new relic monitoring account.
