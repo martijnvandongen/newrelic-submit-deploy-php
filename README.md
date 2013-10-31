@@ -13,8 +13,8 @@ http://yourserver.com/newrelicsubmitdeploy.php
 ```````````
 Advanced usage to bookmark your app and prefill your app
 ```````````
-http://yourserver.com/newrelic.submitdeploy.php?apikey=yourapikey&appid=yourappid
+http://yourserver.com/newrelicsubmitdeploy.php?apikey=yourapikey&appid=yourappid
 ```````````
 GET or POST http with all fields, replace # for actual values
 ```````````
-http://yourserver.com/newrelic.submitdeploy.php?apikey=#&appid=#&user=#&description=#&revision=#&changelog=#
+http://yourserver.com/newrelicsubmitdeploy.php?apikey=#&appid=#&user=#&description=#&revision=#&changelog=#
