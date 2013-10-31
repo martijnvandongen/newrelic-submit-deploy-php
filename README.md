@@ -11,7 +11,7 @@ Simple usage
 ```````````
 http://yourserver.com/newrelicsubmitdeploy.php
 ```````````
-Advanced usage to bookmark your app and prefill your app
+Advanced usage to bookmark your key and prefill your app
 ```````````
 http://yourserver.com/newrelicsubmitdeploy.php?apikey=yourapikey&appid=yourappid
 ```````````
